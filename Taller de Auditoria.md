@@ -1,4 +1,4 @@
-# Actividad: Marcos de Gobierno y Gestión de TI para Kike Parking
+# Actividad: Marcos de Gobierno y Gestión de TI para Kike Parking - Samuel Orozco Gómez y Juan José López Monsalve
 
 ## 1. Organización
 
